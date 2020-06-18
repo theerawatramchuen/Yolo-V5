@@ -8,3 +8,6 @@ conda install -yc conda-forge scikit-image pycocotools tensorboard <br>
 conda install -yc spyder-ide spyder-line-profiler <br>
 conda install -yc pytorch pytorch torchvision <br>
 conda install -yc conda-forge protobuf numpy && pip install onnx==1.6.0 <br>
+
+## Download weight file 
+from https://drive.google.com/drive/folders/1Drs_Aiu7xx6S-ix95f9kNsA6ueKRpN2J to /weights folder <br>
