@@ -15,6 +15,10 @@ conda install -yc conda-forge protobuf numpy && pip install onnx==1.6.0 <br>
 ## Test installation
 (yolov5) $ python detect.py --source ./inference/images/ --weights yolov5s.pt --conf 0.4
 
+## helps solving the problem: could not load numpy.core.multiarray. 
+The following command <br>
+(yolov5) $ pip install -U numpy
+
 ## Download weight file for Windows only
 from https://drive.google.com/drive/folders/1Drs_Aiu7xx6S-ix95f9kNsA6ueKRpN2J to /weights folder <br>
 
