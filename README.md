@@ -13,6 +13,7 @@ conda install -yc conda-forge protobuf numpy && pip install onnx==1.6.0 <br>
 (yolov5) $ git clone https://github.com/ultralytics/yolov5.git
 
 ## Test installation
+(yolov5) $ cd yolov5
 (yolov5) $ python detect.py --source ./inference/images/ --weights yolov5s.pt --conf 0.4
 
 ## helps solving the problem: could not load numpy.core.multiarray. 
