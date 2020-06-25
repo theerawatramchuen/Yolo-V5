@@ -14,7 +14,7 @@ conda install -yc conda-forge protobuf numpy && pip install onnx==1.6.0 <br>
 ## Test installation
 (yolov5) $ cd yolov5 <br>
 (yolov5) $ python detect.py --source ./inference/images/ --weights yolov5s.pt --conf 0.4 <br>
-(yolov5) $ python detect.py --source ./inference/images/ --weights yolov5s.pt --conf 0.4 --source 0 
+(yolov5) $ python detect.py --source ./inference/images/ --weights yolov5s.pt --conf 0.4 --source 0  #### Webcam
 
 ## helps solving the problem: could not load numpy.core.multiarray. 
 The following command <br>
