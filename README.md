@@ -26,4 +26,5 @@ from https://drive.google.com/drive/folders/1Drs_Aiu7xx6S-ix95f9kNsA6ueKRpN2J to
 ## Test installation Windows only 
 (yolov5) d:\ python detect.py --source ./inference/images/ --weights ./weights/yolov5s.pt --conf 0.4 <br>
 
-
+## Object Detection : YOLOv5 จาก Bronze สู่ Platinum
+from https://medium.com/@ENE_mee/object-detection-yolov5-%E0%B8%88%E0%B8%B2%E0%B8%81-bronze-%E0%B8%AA%E0%B8%B9%E0%B9%88-platinum-19c68e4af44c
